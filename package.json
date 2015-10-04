@@ -1,0 +1,27 @@
+{
+  "name": "randgame",
+  "version": "1.0.0",
+  "description": "random input for controlls",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thadeaus/randgame.git"
+  },
+  "author": "Graham Cooper",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thadeaus/randgame/issues"
+  },
+  "homepage": "https://github.com/thadeaus/randgame#readme",
+  "dependencies": {
+    "angular": "^1.4.7",
+    "angular-socket-io": "^0.7.0",
+    "angular-ui-router": "^0.2.15",
+    "express": "^4.13.3",
+    "lodash": "^3.10.1",
+    "socket.io": "^1.3.7"
+  }
+}
